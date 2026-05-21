@@ -1,0 +1,4 @@
+/.metadata/
+
+# Serversプロジェクト全体を除外
+/Servers/
